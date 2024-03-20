@@ -1,0 +1,19 @@
+
+
+Hola emiliano, bienvenido al curso.
+
+El script en ejecucion es: ./hello.sh
+
+El directorio actual es:
+/c/Users/emili/semana_tec
+
+
+y su contenido es: 
+
+total 14
+drwxr-xr-x 1 emili 197609   0 Mar 20 15:12 .
+drwxr-xr-x 1 emili 197609   0 Mar 20 12:16 ..
+-rwxr-xr-x 1 emili 197609 215 Mar 20 12:37 hello.sh
+-rw-r--r-- 1 emili 197609 152 Mar 20 15:12 output.txt
+
+
