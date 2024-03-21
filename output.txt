@@ -1,6 +1,6 @@
 
 
-Hola emiliano, bienvenido al curso.
+Hola Emiliano, bienvenido al curso.
 
 El script en ejecucion es: ./hello.sh
 
